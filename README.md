@@ -8,6 +8,15 @@ https://ai-mock-interview-system-bahtelvsep4eukg9nstieu.streamlit.app/
 
 ---
 
+##screenshots
+
+<img width="959" height="485" alt="image" src="https://github.com/user-attachments/assets/f07d509b-83ab-4e35-b230-81821ed41772" />
+
+<img width="727" height="490" alt="image" src="https://github.com/user-attachments/assets/6ab1894d-6e39-4486-8d04-bc9330ba0304" />
+
+<img width="727" height="490" alt="image" src="https://github.com/user-attachments/assets/732dc9b3-ec38-4324-9a61-3e5b0ca44356" />
+
+
 ## ✨ Features
 
 - 📄 Upload Resume (PDF)
