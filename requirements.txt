@@ -1,0 +1,7 @@
+streamlit
+streamlit-autorefresh
+scikit-learn
+PyPDF2
+reportlab
+numpy
+pandas
